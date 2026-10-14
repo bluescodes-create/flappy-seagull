@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Flappy Seagull: Weston-super-Mare",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FlappySeagull",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Flappy Seagull Weston Edition"
+}
